@@ -26,5 +26,4 @@ public class Player {
     public int getStrength() {return strength;}
     public int getAttack(){return attack;}
     public boolean isAlive(){return this.health>0;}
-
 }
